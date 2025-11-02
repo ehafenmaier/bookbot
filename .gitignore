@@ -1,2 +1,34 @@
 # Books folder
 /books
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg
+
+# Virtual environments
+.venv/
+env/
+venv/
+.env
+
+# Distribution / build files
+dist/
+build/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+tmp/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
